@@ -8,7 +8,7 @@ import java.io.FileNotFoundException;
 
 //В отличии от SAX, который вызывает ваш обработчик тогда, когда считает нужным, в StAX вы сами управляете
 // перемещением по тэгам StAX позволяет не только читать, но и писать
-public class StAXExample {
+    public class StAXExample {
 
     public static void main(String[] args) {
 
